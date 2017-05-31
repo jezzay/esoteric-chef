@@ -10,9 +10,13 @@ It roughly implements a program that prints out a speech by [Count von Count](ht
 ```
 Count von Count's Spicy Soup Challenge
 
-The challenge sees how many rounds of Count von Count's Spicy Soup you can consume, At each round, another Ghost Pepper
-is added. This recipe takes a number of Ghost Peppers (1-9), and prints out "<number>, uh, uh uh" for each
-round of the challenge.
+The challenge sees how many rounds of Count von Count's Spicy Soup you can consume.
+
+At each round, another Ghost Pepper is added. 
+
+This recipe takes a number of Ghost Peppers (1-9), and prints out the following for each round of the challenge:
+
+"<number>, uh, uh uh" 
 
 For example, taking 3 rounds of Ghost Peppers would print:
 
@@ -22,7 +26,7 @@ For example, taking 3 rounds of Ghost Peppers would print:
 
 Ingredients.
 48 g fresh coriander
-1 Ghost Pepper (Bhut Jolokia Chili Peppers)
+Ghost Pepper (Bhut Jolokia Chili Peppers)
 
 Take Ghost Peppers from the refrigerator
 
@@ -34,7 +38,6 @@ Liquefy contents of the mixing bowl # ie bring to a boil
 Mix the Ghost Peppers until simmered
 
 Serves 1
-
 
 Count von Count's Spicy Soup
 
